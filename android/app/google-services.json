@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423629510566",
+    "project_id": "mapg-58e95",
+    "storage_bucket": "mapg-58e95.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423629510566:android:3569386404c4102c34e167",
+        "android_client_info": {
+          "package_name": "com.example.gmap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXkQlu_uONyfvYDUAVJop4_k559dIFWO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
